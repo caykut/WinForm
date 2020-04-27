@@ -20,7 +20,7 @@ namespace üretim_yönetim_sistemi
         private void button1_Click(object sender, EventArgs e)
         {
             
-                if (textBox1.Text == "cevat" && textBox2.Text == "123")
+                if (textBox1.Text == "" && textBox2.Text == "")
                 {
                     MessageBox.Show("Giriş Başarılı");
                 }
