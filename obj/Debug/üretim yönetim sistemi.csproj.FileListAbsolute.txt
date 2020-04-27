@@ -1,0 +1,28 @@
+C:\Users\cevat\source\repos\üretim yönetim sistemi\üretim yönetim sistemi\bin\Debug\üretim yönetim sistemi.exe.config
+C:\Users\cevat\source\repos\üretim yönetim sistemi\üretim yönetim sistemi\bin\Debug\üretim yönetim sistemi.exe
+C:\Users\cevat\source\repos\üretim yönetim sistemi\üretim yönetim sistemi\bin\Debug\üretim yönetim sistemi.pdb
+C:\Users\cevat\source\repos\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim yönetim sistemi.csprojAssemblyReference.cache
+C:\Users\cevat\source\repos\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim_yönetim_sistemi.Form1.resources
+C:\Users\cevat\source\repos\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim_yönetim_sistemi.Properties.Resources.resources
+C:\Users\cevat\source\repos\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim yönetim sistemi.csproj.GenerateResource.cache
+C:\Users\cevat\source\repos\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim yönetim sistemi.exe
+C:\Users\cevat\source\repos\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim yönetim sistemi.pdb
+C:\Users\cevat\source\repos\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim_yönetim_sistemi.Form2.resources
+C:\Users\cevat\source\repos\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim_yönetim_sistemi.Form3.resources
+C:\Users\cevat\source\repos\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim_yönetim_sistemi.Form6.resources
+C:\Users\cevat\source\repos\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim_yönetim_sistemi.Form4.resources
+C:\Users\cevat\source\repos\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim_yönetim_sistemi.Form5.resources
+C:\Users\cevat\OneDrive\Masaüstü\üretim yönetim sistemi\üretim yönetim sistemi\bin\Debug\üretim yönetim sistemi.exe.config
+C:\Users\cevat\OneDrive\Masaüstü\üretim yönetim sistemi\üretim yönetim sistemi\bin\Debug\üretim yönetim sistemi.exe
+C:\Users\cevat\OneDrive\Masaüstü\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim yönetim sistemi.csprojAssemblyReference.cache
+C:\Users\cevat\OneDrive\Masaüstü\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim_yönetim_sistemi.Form1.resources
+C:\Users\cevat\OneDrive\Masaüstü\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim_yönetim_sistemi.Form2.resources
+C:\Users\cevat\OneDrive\Masaüstü\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim_yönetim_sistemi.Form3.resources
+C:\Users\cevat\OneDrive\Masaüstü\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim_yönetim_sistemi.Form4.resources
+C:\Users\cevat\OneDrive\Masaüstü\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim_yönetim_sistemi.Form5.resources
+C:\Users\cevat\OneDrive\Masaüstü\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim_yönetim_sistemi.Form6.resources
+C:\Users\cevat\OneDrive\Masaüstü\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim_yönetim_sistemi.Properties.Resources.resources
+C:\Users\cevat\OneDrive\Masaüstü\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim yönetim sistemi.csproj.GenerateResource.cache
+C:\Users\cevat\OneDrive\Masaüstü\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim yönetim sistemi.exe
+C:\Users\cevat\OneDrive\Masaüstü\üretim yönetim sistemi\üretim yönetim sistemi\obj\Debug\üretim yönetim sistemi.pdb
+C:\Users\cevat\OneDrive\Masaüstü\üretim yönetim sistemi\üretim yönetim sistemi\bin\Debug\üretim yönetim sistemi.pdb
